@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>dt_test (184).jpg</filename>
+	<path>/my-project-name/dt_test (184).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>can_than_nguoi_qua_duong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>351</ymin>
+			<xmax>824</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

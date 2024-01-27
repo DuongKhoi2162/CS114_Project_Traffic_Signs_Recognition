@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>frame_443.jpg</filename>
+	<path>/my-project-name/frame_443.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>giao_khong_uu_tien_phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>837</xmin>
+			<ymin>423</ymin>
+			<xmax>887</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
